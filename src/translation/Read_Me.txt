@@ -1,1 +1,1 @@
---- This directory contains Actual Translations ---
+--- This directory contains Source files to Translate ---
